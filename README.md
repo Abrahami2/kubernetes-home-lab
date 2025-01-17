@@ -10,7 +10,7 @@ This repository documents my journey in creating a new Kubernetes home lab from 
   - **Server**: Precision 3460 (i7 12th Gen)
   - **Additional Node**: Intel NUC (i7)
   - **Storage**: Synology DS415+
-  - **Internet**: AT&T Fiber
+  - **Internet**:  Fiber (ISP modem)
   - **UPS**: Uninterruptible Power Supply for power management
 
 ## 🛠️ Features and Goals
